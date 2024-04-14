@@ -30,7 +30,7 @@ Afame-Technologies-Internship/
 ```
 
 ## Usage
-1. Clone the repository: `git clone https://github.com/YourUsername/Afame-Technologies-Internship.git`
+1. Clone the repository: `git clone https://github.com/akshit-g/Afame-Technologies.git`
 2. Navigate to the project directory of interest.
 3. Open the Jupyter Notebook file (.ipynb) using Jupyter Notebook.
 4. Follow the instructions and execute the code cells to replicate the analysis or model.
